@@ -4,4 +4,4 @@ NPM     : 2106750931
 
 Kelas   : B
 
-Hobi    : menonton
+Hobi    : menonton, main game
